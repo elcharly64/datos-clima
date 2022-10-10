@@ -1,0 +1,19 @@
+{
+  "name": "0501-clima-app",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Entrenamiento en Node, Septiembre 2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Carlos Utrera",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.2"
+  }
+}
